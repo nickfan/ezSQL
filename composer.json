@@ -26,5 +26,10 @@
             "sybase/ez_sql_sybase.php",
             "codeigniter/Ezsql_codeigniter.php"
         ]
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
     }
 }
